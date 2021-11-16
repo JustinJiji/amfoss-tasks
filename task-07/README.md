@@ -1,0 +1,1 @@
+Here I used colly framework to do the scrapping, but I was not successfull in scrapping the site. I just tried the same code with other website and found working.So I googled abt it to find that colly can only be used for static webpages while forbes was dynamic. So I am working on to find other frameworks for dynamic webpages.
