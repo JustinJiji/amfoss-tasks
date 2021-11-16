@@ -1,0 +1,68 @@
+<html>
+<script src="data.js"></script>    
+<body>
+
+<center>
+ 
+<canvas id="myChart" style="width:100%;max-width:45%"></canvas>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+</center>  
+<script >
+//Chart Js Implementation or you can use any other library also [https://www.npmjs.com/search?q=HTML5%20charts]
+
+function updateChart(){
+    getRandomJson().then(cdata => {
+        const pizzaName = cdata.map(function(index){
+            return index.pizza;
+        })
+        const num_sold = cdata.map(function(index){
+            return index.sold;
+        })
+        // console.log(pizzaName);
+        // console.log(num_sold);
+        myChart.config.data.labels=pizzaName;
+        myChart.config.data.datasets[0].data=num_sold;
+        myChart.update();
+    });
+}
+const data={
+    labels:[],
+    datasets:[{
+        data:[],
+        label:"Sale of Pizza",
+        backgroundColor:['violet','orange','green','indigo','red']
+    }]
+};
+
+const config={
+    type:'pie',
+    data,
+    options: {}
+}
+
+const myChart=new Chart(
+    document.getElementById('myChart'),
+    config
+);
+
+</script>
+<!--Visualise the chart based on the data from data.js-->
+<center> <br>
+<button onclick="updateChart()" class="button">Click here for Random Day</button>
+</center>
+<style>
+    .button{
+        background-color: black;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+    }
+</body>
+</html>
+
