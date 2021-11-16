@@ -18,8 +18,6 @@ function updateChart(){
         const num_sold = cdata.map(function(index){
             return index.sold;
         })
-        // console.log(pizzaName);
-        // console.log(num_sold);
         myChart.config.data.labels=pizzaName;
         myChart.config.data.datasets[0].data=num_sold;
         myChart.update();
