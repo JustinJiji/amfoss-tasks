@@ -20,7 +20,7 @@
 [Task-14](https://github.com/JustinJiji/amfoss-tasks/tree/main/task-14)|Bandit|Completed
 [Task-15](https://github.com/JustinJiji/amfoss-tasks/tree/main/task-15)|Project Euler|Completed
 ## My views about the tasks
-I myself have not completed all the tasks so I can say that they are not easy but when you start doing it become simpler as you gain
+I myself have almost completed all the tasks so I can say that they are not easy but when you start doing it become simpler as you gain
 the knowledge.They challange us to learn something or improve something so that we could do the tasks.The tasks are perfect to develop 
 the habit of self learning and was successful atleast in my case.
 ## My Introduction
