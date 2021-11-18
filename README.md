@@ -20,11 +20,11 @@
 [Task-14](https://github.com/JustinJiji/amfoss-tasks/tree/main/task-14)|Bandit|Completed
 [Task-15](https://github.com/JustinJiji/amfoss-tasks/tree/main/task-15)|Project Euler|Completed
 ## My views about the tasks
-I myself have almost completed all the tasks so I can say that they are not easy but when you start doing it become simpler as you gain
+I myself have almost completed all the tasks so I can say that they are not easy but when you start doing it, it become simpler as you gain
 the knowledge.They challange us to learn something or improve something so that we could do the tasks.The tasks are perfect to develop 
 the habit of self learning and was successful atleast in my case.
 ## My Introduction
 Hii Seniors :pray: I am Justin Jiji from Kollam Kerala.I came to know about amFOSS from quora since then it fascinated me.
-I feel the club will provide me ample opportunities to develop my skills and knowledge.I am a noob in the field of coding and I only knew 
-C and Python to an extent but after attempting the tasks I personally find a great improvement in my knowledge this is what I basically want from 
+I feel the club will provide me ample opportunities to develop my skills and knowledge.I am only having basic understanding in the field of coding and I only knew 
+C and Python to an extent but after attempting the tasks I personally find a great improvement in my knowledge and this is what I basically want from 
 me that each day when I get up in the morning I find myself improved than the previous day and this is what doing the tasks I have achieved.
