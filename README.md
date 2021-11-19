@@ -13,7 +13,7 @@
 [Task-07](https://github.com/JustinJiji/amfoss-tasks/tree/main/task-07)|Rich Scraper|Completed but need to change
 [Task-08](https://github.com/JustinJiji/amfoss-tasks/tree/main/task-08)|JSExplorer|Completed
 [Task-09](https://github.com/JustinJiji/amfoss-tasks/tree/main/task-09)|Setup a Simple Personal Website|Completed
-[Task-10](https://github.com/JustinJiji/amfoss-tasks/tree/main/task-10)|CS50|Completed
+[Task-10](https://github.com/JustinJiji/amfoss-tasks/tree/main/task-10)|CS50|Partially Completed
 [Task-11](https://github.com/JustinJiji/amfoss-tasks/tree/main/task-11)|Poster Design|Completed
 [Task-12](https://github.com/JustinJiji/amfoss-tasks/tree/main/task-12)|Make the Block|Completed 
 [Task-13](https://github.com/JustinJiji/amfoss-tasks/tree/main/task-13)|Circuit Design|Not Yet
