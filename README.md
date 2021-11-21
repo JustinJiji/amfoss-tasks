@@ -16,7 +16,7 @@
 [Task-10](https://github.com/JustinJiji/amfoss-tasks/tree/main/task-10)|CS50|Partially Completed
 [Task-11](https://github.com/JustinJiji/amfoss-tasks/tree/main/task-11)|Poster Design|Completed
 [Task-12](https://github.com/JustinJiji/amfoss-tasks/tree/main/task-12)|Make the Block|Completed 
-[Task-13](https://github.com/JustinJiji/amfoss-tasks/tree/main/task-13)|Circuit Design|Not Yet
+[Task-13](https://github.com/JustinJiji/amfoss-tasks/tree/main/task-13)|Circuit Design|Started
 [Task-14](https://github.com/JustinJiji/amfoss-tasks/tree/main/task-14)|Bandit|Completed
 [Task-15](https://github.com/JustinJiji/amfoss-tasks/tree/main/task-15)|Project Euler|Completed
 ## My views about the tasks
